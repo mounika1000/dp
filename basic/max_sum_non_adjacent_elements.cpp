@@ -38,5 +38,5 @@ int main(){
         dp[i]=-1;
     }
     cout<<cal(n-1,arr)<<endl;
-    cout<<cal_memo()
+    
 }

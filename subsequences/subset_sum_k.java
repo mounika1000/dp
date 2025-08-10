@@ -1,3 +1,4 @@
+package subsequences;
 import java.util.*;
 public class subset_sum_k{
     public static boolean cal(int arr[],int idx,int k){

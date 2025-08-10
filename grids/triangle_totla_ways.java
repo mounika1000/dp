@@ -10,9 +10,7 @@ public class triangle_totla_ways {
         return list.get(i).get(j)+Math.min(d,dg);
 
     }
-    public static int cal_memo(List<List<Integer>>l,int i,int j){
-        if()
-    }
+    
 
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
